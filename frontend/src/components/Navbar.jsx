@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
-import "./Navbar.css";
+import "./navbar.css";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
