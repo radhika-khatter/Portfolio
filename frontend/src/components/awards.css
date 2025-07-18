@@ -1,0 +1,155 @@
+.awards-section {
+  padding: 4rem 1.5rem;
+   background: linear-gradient(90deg, #05161c, #032632);
+}
+
+.awards-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.awards-title {
+  font-size: 3.5rem;
+  background: linear-gradient(90deg, #6e81ff, #73d5f5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1rem;
+}
+
+.awards-subtitle {
+  font-size: 1.1rem;
+  color: #6a6868;
+  margin-bottom: 2.5rem;
+}
+
+.awards-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.award-card {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.award-card:hover {
+  transform: translateY(-4px);
+}
+
+.award-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  text-align: left;
+}
+
+.icon-box {
+  background-color: #e0f2fe;
+  padding: 0.75rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.award-info {
+  flex: 1;
+}
+
+.award-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.award-year {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+.award-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+  color: #333;
+}
+
+.award-description {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.award-details {
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+.badge {
+  padding: 0.2rem 0.6rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 9999px;
+  border: 1px solid transparent;
+}
+
+.badge.green {
+  background-color: #d1fae5;
+  color: #059669;
+  border-color: #10b981;
+}
+
+.badge.orange {
+  background-color: #ffedd5;
+  color: #ea580c;
+  border-color: #f97316;
+}
+
+.badge.purple {
+  background-color: #ede9fe;
+  color: #7c3aed;
+  border-color: #8b5cf6;
+}
+
+.badge.cyan {
+  background-color: #cffafe;
+  color: #0891b2;
+  border-color: #06b6d4;
+}
+
+.badge.default {
+  background-color: #f3f4f6;
+  color: #374151;
+  border-color: #d1d5db;
+}
+
+.award-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.award-stats div {
+  text-align: center;
+}
+
+.award-stats h4 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  background: linear-gradient(to right, #4f46e5, #06b6d4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.25rem;
+}
+
+.award-stats p {
+  font-size: 0.85rem;
+  color: #555;
+}
