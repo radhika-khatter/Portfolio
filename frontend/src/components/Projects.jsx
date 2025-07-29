@@ -124,6 +124,8 @@ const Projects = () => {
   const ProjectCard = ({ project }) => {
     const Icon = project.icon;
     return (
+      <>
+       <section id="projects" className="projects-section">
       <div className="project-card">
         <div className="project-icon">
           <Icon size={20} />
@@ -147,6 +149,8 @@ const Projects = () => {
           </a>
         </div>
       </div>
+      </section>
+      </>
     );
   };
 
@@ -164,6 +168,7 @@ const Projects = () => {
         </div>
       </div>
     </section>
+   
   );
 };
 
