@@ -1,0 +1,42 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cls-1 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 4px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  </style>
+  <path class="cls-1" d="M100 500h400v-50h-400z"/>
+  <path class="cls-1" d="M120 450v-100h360v100h-360z"/>
+  <path class="cls-1" d="M140 350v-80h320v80h-320z"/>
+  <path class="cls-1" d="M160 270v-50h280v50h-280z"/>
+  <path class="cls-1" d="M180 220v-30h240v30h-240z"/>
+  <path class="cls-1" d="M200 190v-20h200v20h-200z"/>
+  <path class="cls-1" d="M220 170v-10h160v10h-160z"/>
+  <path class="cls-1" d="M240 160v-10h120v10h-120z"/>
+  <path class="cls-1" d="M260 150v-10h80v10h-80z"/>
+  <path class="cls-1" d="M280 140v-10h40v10h-40z"/>
+  <path class="cls-1" d="M300 130v-10h0v10z"/>
+  <path class="cls-1" d="M100 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M140 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M180 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M220 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M260 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M300 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M340 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M380 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M420 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M460 500h10v-20h10v20z"/>
+  <path class="cls-1" d="M160 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M190 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M220 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M250 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M280 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M310 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M340 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M370 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M400 350h10v-10h10v10z"/>
+  <path class="cls-1" d="M430 350h10v-10h10v10z"/>
+</svg>
